@@ -1,0 +1,5 @@
+.table {
+    margin: 0 auto 137px;
+    display: flex;
+    flex-direction: row;
+}
