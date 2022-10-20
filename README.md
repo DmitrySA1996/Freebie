@@ -5,4 +5,4 @@
 
 ## Description
 
-Website for choosing a gift.
+Website for choosing a present.
