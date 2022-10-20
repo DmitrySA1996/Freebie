@@ -28,22 +28,30 @@
 @import url(../blocks/wife/__cards/_theme/wife__cards_theme_row.css);
 @import url(../blocks/wife/__cards/_theme/wife__cards_theme_button.css);
 @import url(../blocks/wife/__cards/_theme/wife__cards_theme_posts-blog.css);
+@import url(../blocks/wife/__cards/_theme/wife__cards_theme_blog.css);
 @import url(../blocks/wife/__text1/wife__text1.css);
+@import url(../blocks/wife/__text1/_theme/wife__text1_theme_blog.css);
 @import url(../blocks/wife/__text2/wife__text2.css);
+@import url(../blocks/wife/__text2/_theme/wife__text2_theme_dark.css);
 @import url(../blocks/wife/__button/wife__button.css);
 @import url(../blocks/wife/__button/_theme/wife__button_theme_white.css);
 @import url(../blocks/wife/__button/_theme/wife__button_theme_border-dark.css);
 @import url(../blocks/wife/__button/_theme/wife__button_theme_dark.css);
 @import url(../blocks/wife/__image/wife__image.css);
+@import url(../blocks/wife/__image/_theme/wife__image_theme_blog.css);
 /* ------------------------------------------------------------------------------------------*/
 
 /* table-----------------------------------------------------------------------------*/
 @import url(../blocks/table/table.css);
+@import url(../blocks/table/_theme/table_theme_column.css);
 @import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_row.css);
 @import url(../blocks/table/__image/table__image.css);
 @import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/table/_theme/table__text_theme_blog.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__link/table__link.css);
+@import url(../blocks/table/__link/_theme/table__link_theme_dark.css);
 /* ------------------------------------------------------------------------------------------*/
 
 /* секция header-----------------------------------------------------------------------------*/
