@@ -27,6 +27,7 @@
 @import url(../blocks/wife/__cards/_theme/wife__cards_theme_bold.css);
 @import url(../blocks/wife/__cards/_theme/wife__cards_theme_row.css);
 @import url(../blocks/wife/__cards/_theme/wife__cards_theme_button.css);
+@import url(../blocks/wife/__cards/_theme/wife__cards_theme_posts-blog.css);
 @import url(../blocks/wife/__text1/wife__text1.css);
 @import url(../blocks/wife/__text2/wife__text2.css);
 @import url(../blocks/wife/__button/wife__button.css);
@@ -36,7 +37,7 @@
 @import url(../blocks/wife/__image/wife__image.css);
 /* ------------------------------------------------------------------------------------------*/
 
-/* wife-----------------------------------------------------------------------------*/
+/* table-----------------------------------------------------------------------------*/
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__image/table__image.css);

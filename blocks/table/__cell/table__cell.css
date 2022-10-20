@@ -1,0 +1,8 @@
+.table__cell {
+    margin-right: 30px;
+    list-style-type: none;
+}
+
+.table__cell:last-child {
+  margin: 0;  
+}
