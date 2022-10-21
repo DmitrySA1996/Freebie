@@ -1,0 +1,15 @@
+.footer__menu-bar {
+    text-decoration: none;
+    color: #000000;
+    align-self: center;
+    margin-right: 0;
+}
+
+
+.footer__menu-bar:first-child {
+    margin-right: 81px;
+}
+
+.footer__menu-bar:last-child {
+    margin-left: 81px;
+}

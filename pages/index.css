@@ -71,14 +71,18 @@
 /* ------------------------------------------------------------------------------------------*/
 
 
+/* секция posts-blog-----------------------------------------------------------------------------*/
+@import url(../blocks/posts-blog/posts-blog.css);
+/* ------------------------------------------------------------------------------------------*/
+
+
 /* секция footer------------------------------------------------------------------------*/
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__columns/footer__columns.css);
-@import url(../blocks/footer/__column/footer__column.css);
-@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
-@import url(../blocks/footer/__column-heading/footer__column-heading.css);
-@import url(../blocks/footer/__column-links/footer__column-links.css);
-@import url(../blocks/footer/__column-link/footer__column-link.css);
-@import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__menu-bar/footer__menu-bar.css);
+@import url(../blocks/footer/__border/footer__border.css);
+@import url(../blocks/footer/__social-icons/footer__social-icons.css);
+@import url(../blocks/footer/__icons/footer__icons.css);
+@import url(../blocks/footer/__copyrights/footer__copyrights.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
 /* ------------------------------------------------------------------------------------------*/
