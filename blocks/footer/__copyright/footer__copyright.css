@@ -1,0 +1,8 @@
+.footer__copyright {
+    margin-right: 14px;
+    list-style-type: none;
+}
+
+.footer__copyright:last-child {
+    margin-right: 0;
+}

@@ -1,0 +1,10 @@
+.table__cell_theme_row {
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.table__cell_theme_row:last-child {
+    margin: 0 auto;
+}
